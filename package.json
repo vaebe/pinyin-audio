@@ -1,0 +1,12 @@
+{
+  "name": "pinyin-audio",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "keywords": ["拼音","拼音mp3", "声母", "韵母", "整体认读音节"],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
